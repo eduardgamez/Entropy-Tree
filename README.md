@@ -1,4 +1,4 @@
-# Entropy-Tree
+# Autonomous Combat Identification Engine
 **Tactical Reasoning Engine** implementing the **ID3** algorithm from scratch to automate **Combat Identification (CID)**.
 
 * **Architecture:** Non-parametric hierarchical classifier designed for **sensor fusion** and explainable decision-making.
